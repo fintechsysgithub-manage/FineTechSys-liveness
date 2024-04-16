@@ -4,12 +4,12 @@ with open("README.md", "r", encoding="utf-8") as f:
     long_description = f.read()
 
 
-__version__ = "0.0.0"
+__version__ = "0.0.1"
 
 REPO_NAME = "liveness"
-AUTHOR_USER_NAME = "Abdulrasheed-M"
-SRC_REPO = "cnnClassifier"
-AUTHOR_EMAIL = "ab.alsalmi@fintechsys.net"
+AUTHOR_USER_NAME = "fintechsysgithub-manage"
+SRC_REPO = "FineTechSys-liveness"
+AUTHOR_EMAIL = "a.muaad@fintechsys.net"
 
 
 setuptools.setup(
